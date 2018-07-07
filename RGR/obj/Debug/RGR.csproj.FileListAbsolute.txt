@@ -1,0 +1,19 @@
+c:\users\asus\documents\visual studio 2013\Projects\RGR\RGR\bin\Debug\RGR.exe.config
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\RGR\RGR\obj\Debug\RGR.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\RGR\RGR\obj\Debug\RGR.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\RGR\RGR\obj\Debug\RGR.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\RGR\RGR\bin\Debug\RGR.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\RGR\RGR\bin\Debug\RGR.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\RGR\RGR\obj\Debug\RGR.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\RGR\RGR\obj\Debug\RGR.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\RGR\RGR\obj\Debug\RGR.Form1.resources
+C:\Users\Asus\Desktop\Учеба\3 семестр\Информатика\RGR\RGR\bin\Debug\RGR.exe.config
+C:\Users\Asus\Desktop\Учеба\3 семестр\Информатика\RGR\RGR\bin\Debug\RGR.exe
+C:\Users\Asus\Desktop\Учеба\3 семестр\Информатика\RGR\RGR\bin\Debug\RGR.pdb
+C:\Users\Asus\Desktop\Учеба\3 семестр\Информатика\RGR\RGR\obj\Debug\RGR.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Учеба\3 семестр\Информатика\RGR\RGR\obj\Debug\RGR.Form1.resources
+C:\Users\Asus\Desktop\Учеба\3 семестр\Информатика\RGR\RGR\obj\Debug\RGR.Properties.Resources.resources
+C:\Users\Asus\Desktop\Учеба\3 семестр\Информатика\RGR\RGR\obj\Debug\RGR.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Учеба\3 семестр\Информатика\RGR\RGR\obj\Debug\RGR.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Учеба\3 семестр\Информатика\RGR\RGR\obj\Debug\RGR.exe
+C:\Users\Asus\Desktop\Учеба\3 семестр\Информатика\RGR\RGR\obj\Debug\RGR.pdb
